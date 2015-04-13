@@ -21,7 +21,7 @@ Parent.prototype.foo = function(){
  */
 function Child(){
   // call parent constructor
-  Prent.call(this);
+  Parent.call(this);
 }
 
 /*
